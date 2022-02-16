@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #929aa2;
+    
+}
+
+
+
+.carousel {
+    width: 500px;
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+main {
+    background-color: none;
+    margin-top: 0px;
+
+    
+}
+
+#destaque {
+    justify-content: center;
+
+    
+}
+
+#img_destaque {
+    display: flex;
+    justify-content: center;
+ 
+    
+    
+}
+
+#capa_galeria {
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #3b5154;
+
+}
+
+.card {
+    margin: 5px;
+}
