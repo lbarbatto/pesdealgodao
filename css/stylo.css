@@ -25,7 +25,7 @@ nav {
     #link_insta {
         display:none;
     }
-
+    
 }
 
 #insta_logo {
@@ -37,6 +37,7 @@ h1 {
     text-align: center;
     color: #ac663d;
     padding-bottom: 15px;
+    font-variant: small-caps;
     
 }
 
