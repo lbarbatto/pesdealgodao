@@ -2,45 +2,85 @@
 /* CSS Document */
 
 body {
-    background-color: #929aa2;
+    background-color: #3b5154;
     
 }
 
+nav {
+
+    
+}
+
+#logo_nav {
+    margin-right: 10px;
+    
+}
+
+#link_insta {
+    display:inline-block;
+}
+
+@media (max-width: 600px) {
+    #link_insta {
+        display:none;
+    }
+
+}
+
+#insta_logo {
+    
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+    color: #ac663d;
+    padding-bottom: 15px;
+    
+}
 
 
 .carousel {
     width: 500px;
     height: 500px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    
 
 }
 
 main {
     background-color: none;
-    margin-top: 0px;
+    margin-top: 180px;
 
     
 }
 
 #destaque {
     justify-content: center;
-
+    padding-bottom: 40px;
+    
     
 }
 
 #img_destaque {
     display: flex;
     justify-content: center;
+    background-color: none;
+    
  
     
     
 }
 
+#frame_destaque {
+    background-color: #ac663d;
+    padding: 15px;
+    border-radius: 10px;
+}
+
 #capa_galeria {
     padding-left: 40px;
     padding-right: 40px;
-    background-color: #3b5154;
+    background-color: #929aa2;
 
 }
 
